@@ -248,6 +248,6 @@ getData()
 
 * If we call ```catch``` method after calling all ```then``` methods, we can catch not only errors that occur in asynchronous processing (when the reject function is called), but also errors that occur within ```then``` method.
 * Therefore, it is better to handle errors with ```catch()``` for better readability and more exception handling situations.
-* 
+ 
 
 
