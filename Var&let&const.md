@@ -1,4 +1,4 @@
-## When we use var, let and const?
+## 2. When we use var, let and const?
 ### 1) Var
 #### (1) ```var``` can be just omitted.
 ```javascript
