@@ -151,7 +151,7 @@ console.log(tom.name); // undefined
 * ```Apply``` and ```call``` are both methods of the ```Function.prototype``` object.
 <br>
 
-*Function.prototype.call()
+* Function.prototype.call()
 ```javascript
 func.call(thisArg[, arg1[, arg2[, ...]]])
 
