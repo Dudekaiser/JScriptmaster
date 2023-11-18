@@ -66,5 +66,6 @@ const clickEvent = (e) => {
 };
 ```
 <br>
+
 * Previously, when DIV3 was clicked, the event was propagated so DIV3, DIV2, and DIV1 were output, but this time, we can see that only the event of the clicked target occurs.
 * That is DIV3. So only DIV3 is output.
