@@ -1,4 +1,4 @@
-## 14. Operator
+## 13. Operator
 
 ### 1) Short Circuit Evaluation
 * When we use ```&&```, if the left value is true, return right value.
