@@ -34,6 +34,8 @@ console.log(hello); // ReferenceError
 
 ### 2) let & const
 * To solve the problems described above, from ES6, block level scope can be used with the introduction of ```let``` and ```const```.
+* AND, ```var```키워드는 호이스팅을 막아주지 못한다. 
+* 하지만 ```let```과 ```const```는 값이 초기화되기전에 값을 미리 가져와지는 버그를 방지. 그래서 ```var```는 잘 안 쓴다.
 <br>
 
 #### (1) Redeclaration is impossible for both ```let``` and ```const```.
